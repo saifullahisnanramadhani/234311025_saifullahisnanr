@@ -9,7 +9,7 @@ Menggunakan Machine Learning dan Deep Learning**
 - **Program Studi**: Teknologi Rekayasa Perangkat Lunak  
 - **Mata Kuliah**: Data Science  
 - **Repository**: https://github.com/username/uas-data-science  
-- **Video**: https://youtu.be/link-video-anda  
+- **Video**: https://youtu.be/qPpvmvGKUxM  
 
 ---
 
